@@ -2,7 +2,7 @@
 
 ### `Finish The Lyric`
 
-A fun entertainment bot on [Guilded.gg](https://guilded.gg) to test your musical knowledge and finish lyrics.
+A fun economy bot on [Guilded.gg](https://guilded.gg) to test your musical knowledge and finish lyrics.
 
 <a href="https://finishthelyric.pages.dev">Website</a> ·
 <a href="https://github.com/myferr/finish-the-lyric">Bot Repository</a>
