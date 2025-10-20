@@ -10,5 +10,7 @@ A fun economy bot on [Guilded.gg](https://guilded.gg) to test your musical knowl
 ### Looking for [the bot's repo?](https://github.com/myferr/finish-the-lyric)
 This organization is only used for hosting miscellaneous stuff like the docs and website
 
+---
+
 > [!CAUTION]
 > Guilded has decided to end all operations and shut down as a platform on December 19th, 2025. Due to this decision, **Finish The Lyric** has been shut down. Thank you!
